@@ -1,5 +1,7 @@
 # jsonutil - Convenience functions for working with JSON
 
+[![Build Status](https://secure.travis-ci.org/mfncooper/jsonutil.png)](http://travis-ci.org/mfncooper/jsonutil)
+
 Working with JSON in Node.js is pretty straightforward, but there are a couple
 of things that could be a bit more convenient. Examples are copying objects, as
 well as reading them from, and writing them to, files. The jsonutil package
