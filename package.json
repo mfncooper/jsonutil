@@ -1,0 +1,31 @@
+{
+  "name": "jsonutil",
+  "version": "0.2.0",
+  "description": "Convenience functions for working with JSON",
+  "keywords": [ "json", "utility", "file", "read", "write", "deep", "copy", "clone" ],
+  "author": "Martin Cooper <mfncooper@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mfncooper/jsonutil.git"
+  },
+  "bugs": {
+    "url" : "http://github.com/mfncooper/jsonutil/issues"
+  },
+  "main": "jsonutil.js",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit" : "~0.7"
+  },
+  "scripts": {
+    "test": "nodeunit test/*.js"
+  },
+  "licenses" : [
+    {
+      "type" : "MIT",
+      "url" : "http://github.com/mfncooper/jsonutil/raw/master/LICENSE"
+    }
+  ]
+}
