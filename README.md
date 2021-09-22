@@ -1,6 +1,6 @@
 # jsonutil - Convenience functions for working with JSON
 
-[![Build Status](https://secure.travis-ci.org/mfncooper/jsonutil.png)](http://travis-ci.org/mfncooper/jsonutil)
+![status](https://img.shields.io/badge/status-archive-red)
 
 Working with JSON in Node.js is pretty straightforward, but there are a couple
 of things that could be a bit more convenient. Examples are copying objects, as
